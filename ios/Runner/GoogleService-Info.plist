@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>61104977920-hu0uhjdafmv6igd8q4uacseq9aqbmtue.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.61104977920-hu0uhjdafmv6igd8q4uacseq9aqbmtue</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>61104977920-gbet7g95kufobpt7l62b872rbhi5nmhf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyACyFfzR6eHENe9W3p7XF_hGejhg3JNHDs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>61104977920</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.nalandha</string>
+	<key>PROJECT_ID</key>
+	<string>nalanda-d49bc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nalanda-d49bc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:61104977920:ios:e7eca24c4770ed193680e5</string>
+	<key>DATABASE_URL</key>
+	<string>https://nalanda-d49bc.firebaseio.com</string>
+</dict>
+</plist>
